@@ -33,7 +33,7 @@
               <div class="footerruler"></div>
               <ul class="footernewslist">
 
-               {% for item in site.news %}
+               {% for item in site.news reversed limit:5 %}
 
                <li class="footernewsitem"><a href="{{ item.url }}"  class="footerlink">{{ item.title }}</a></li>
 
