@@ -1,0 +1,58 @@
+      <div class="footerwrapper">
+        <div class="footercontainer w-container">
+          <div class="w-row">
+            <div class="w-col w-col-3">
+              <div class="footerrulertop"></div>
+              <div class="footerheader"><img src="{{ site.url }}/images/icon-find-us-wo-01.svg" class="footericonaddress">
+                <h5 class="footerh5">Contact Us</h5>
+              </div>
+              <div class="footerruler"></div>
+              <div class="footeraddressdetails">{{ site.address1 }}<br>{{ site.address2 }}<br>{{ site.town }}<br>{{ site.postcode }}<br><br>Tel: {{ site.telephone }}</div>
+            </div>
+            <div class="w-col w-col-3">
+              <div class="footerrulertop"></div>
+              <div class="footerheader"><img src="{{url('theme://images/icon-emergency-numbers-wo-01.svg')}}" class="footericonaddress">
+                <h5 class="footerh5">Emergencies</h5>
+              </div>
+              <div class="footerruler"></div>
+              <div class="footeremergency">Call: <br>{{ site.mobile }}</div>
+            </div>
+            <div class="w-col w-col-3">
+              <div class="footerrulertop"></div>
+              <div class="footerheader"><img src="{{ site.url }}/images/icon-social-media-wo-01.svg" class="footericonaddress">
+                <h5 class="footerh5">Social Media</h5>
+              </div>
+              <div class="footerruler"></div>
+              <div class="footersocialmedialogoblock"><a href="{{ site.twitterAccount }}"><img src="{{ site.url }}/images/icon-twitter-wo-01.svg" class="footersocialimage"></a><a href="{{ site.googlePlusAccount }}"><img src="{{ site.url }}/images/icon-google-wo-01.svg" class="footersocialimage"></a><a href="{{ site.facebookAccount }}"><img src="{{ site.url }}/images/icon-facebook-wo-01.svg" class="footersocialimage"></a></div>
+            </div>
+            <div class="column-6 w-col w-col-3">
+              <div class="footerrulertop"></div>
+              <div class="footerheader"><img src="{{ site.url }}/images/icon-news-wo-01.svg" class="footericonaddress">
+                <h5 class="footerh5">Latest News</h5>
+              </div>
+              <div class="footerruler"></div>
+              <ul class="footernewslist">
+
+               {% for item in site.news %}
+
+               <li class="footernewsitem"><a href="{{ item.url }}"  class="footerlink">{{ item.title }}</a></li>
+
+               {% endfor %}
+
+              </ul>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footerbottom">
+        <div class="w-container">
+          <ul class="footerbottomlist">
+            <li class="footerbottomtags">{{ site.websiteDesignTag }}</li>
+            <li class="footerbottomtags">|</li>
+            <li class="footerbottomtags">Copyright 2018</li>
+            <li class="footerbottomtags">|</li>
+            <li class="footerbottomtags"><a href="{{ site.url }}/privacy-policy/" class="footerlink">Privacy Policy</a></li>
+          </ul>
+        </div>
+      </div>

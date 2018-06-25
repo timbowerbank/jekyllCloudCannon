@@ -1,0 +1,31 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+        <div class="bannerbelownav">
+          <div class="container-4 w-container">
+            <div>
+              <h1 class="articlebannerh1">{{ page.header.articleH1 }}</h1>
+              <div class="articlebannerpara">{{ page.header.articleDesc }}</div>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <div class="w-container">
+            <div class="w-row">
+              <div class="articlelefthandcol w-col w-col-9">
+                {{ page.content }}
+              </div>
+              <div class="articlerighthandcol w-col w-col-3">
+               {# check to see if there are any other articles #}
+               {% if page.children.count > 0 %}
+                 <h3 class="articlesecondarynavheader">{{ page.header.articlesHeader }}</h3>
+               {% endif %}
+
+               {# add sec nav by including it - it will check for children  #}
+               {% include 'partials/secnav.html.twig' %}
+
+              </div>
+            </div>
+          </div>
+        </div>
+  {% endblock %}

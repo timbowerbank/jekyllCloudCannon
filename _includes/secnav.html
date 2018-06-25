@@ -1,0 +1,21 @@
+
+   <ul class="articlesecondarynav w-list-unstyled">
+
+    {% for item in site.services %}
+    {% if item.featuredArticle == false %}
+
+        <li class="articlesecondarynavitem"><a href="{{ item.url }}" class="secnavlink">{{ item.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+   </ul>
+
+
+   {% for feature in site.services %}
+   {% if feature.featuredArticle == true %}
+   <div class="articlesidefeature"><img src="{{ site.url }}/images/{{ feature.articleThumb }}" alt="{{ feature.articleThumbAlt }}">
+     <h4 class="sidebannerheading">{{ feature.articleH1 }}</h4>
+     <div class="sidebannertext">{{ feature.articleSummary }}</div>
+     <div class="articlebuttonwrapper"><a href="{{ feature.url }}" class="featuredarticlebutton w-button">Read the article</a></div>
+   </div>
+   {% endif %}
+   {% endfor %}

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+     <div class="bannerbelownav">
+       <div class="container-4 w-container">
+         <div>
+           <h1 class="articlebannerh1">{{ page.articleH1 }}</h1>
+           <div class="articlebannerpara">{{ page.articleDesc }}</div>
+         </div>
+       </div>
+     </div>
+
+     <div>
+       <div class="w-container">
+         <div class="row-2 w-row">
+
+          {% for item in site.news %}
+             <div class="colnewsitem w-col w-col-3">
+               <div class="newsitemdivwrapper">
+                 <a href="{{ item.url }}"><img src="{{ site.url }}/images/{{ item.articleThumb }}" alt="{{ item.articleThumbAlt }}"></a>
+                 <h2 class="h2news">{{ item.articleH1 }}</h2>
+                 <div class="newssummary">{{ item.summary }}</div>
+                 <div class="newsbuttonwrapper"><a href="{{ item.url }}" class="newsbutton w-button">Read the article</a></div>
+               </div>
+             </div>
+           {% endfor %}
+
+         </div>
+       </div>
+     </div>
