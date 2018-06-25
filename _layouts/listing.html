@@ -14,7 +14,7 @@ layout: default
        <div class="w-container">
          <div class="row-2 w-row">
 
-          {% for item in site.news %}
+          {% for item in site.news reversed %}
              <div class="colnewsitem w-col w-col-3">
                <div class="newsitemdivwrapper">
                  <a href="{{ item.url }}"><img src="{{ site.url }}/images/{{ item.articleThumb }}" alt="{{ item.articleThumbAlt }}"></a>
