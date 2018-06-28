@@ -37,7 +37,7 @@ servicesPara: >-
   dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh
   et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
   posuere.
-service1Image: main-team-2.jpg
+service1Image_image: /images/main-team-2.jpg
 service1Alt: vet with cats
 service1Header: Dental Care
 service1Desc: >-
@@ -47,7 +47,7 @@ service1Desc: >-
   et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
   posuere.
 service1Link: /services/dental-care
-service2Image: main-team-3.jpg
+service2Image_image: /images/main-team-3.jpg
 service2Alt: vet with horse
 service2Header: Large Animals
 service2Desc: >-
@@ -57,7 +57,7 @@ service2Desc: >-
   et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
   posuere.
 service2Link: /services/kitten-checks
-service3Image: main-team-1.jpg
+service3Image_image: /images/main-team-1.jpg
 service3Alt: vet with dog
 service3Header: Caring for your pet
 service3Desc: >-
