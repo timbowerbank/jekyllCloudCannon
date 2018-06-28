@@ -5,13 +5,13 @@ menu: false
 menuName: Home
 slide1Header: A nice heading
 slide1Para: Find out more about us...
-button1Link: /about-us
+button1Link_url: /about-us
 slide2Header: Really nice words
 slide2Para: An explanation that links to services below.
-button2Link: /services
+button2Link_url: /services
 slide3Header: The final word...
 slide3Para: The slide paragraph that links to contact
-button3Link: /contact-us
+button3Link_url: /contact-us
 
 mainHeader: 'Welcome to our practice'
 mainText: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisi vitae nunc imperdiet imperdiet in quis mauris. Ut a massa a quam gravida dapibus quis id velit. Maecenas neque nisi, lacinia sit amet elementum non, placerat non orci. Quisque viverra pellentesque ex, in dapibus lorem dictum tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur maximus aliquam pharetra. Duis mattis ex ex, eu ornare lacus dapibus sed. Integer egestas nibh ac felis elementum, et facilisis diam mattis.
