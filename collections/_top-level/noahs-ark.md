@@ -1,5 +1,5 @@
 ---
-layout: modular
+layout: main
 title: Noahs Ark
 titleTag: Noahs Ark
 metaDescription: Read all about our practice and how we have helped many pets over the years.
