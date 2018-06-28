@@ -21,7 +21,7 @@ mainHeader: 'Welcome to our practice'
 mainText: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisi vitae nunc imperdiet imperdiet in quis mauris. Ut a massa a quam gravida dapibus quis id velit. Maecenas neque nisi, lacinia sit amet elementum non, placerat non orci. Quisque viverra pellentesque ex, in dapibus lorem dictum tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur maximus aliquam pharetra. Duis mattis ex ex, eu ornare lacus dapibus sed. Integer egestas nibh ac felis elementum, et facilisis diam mattis.
 
 moduleHeader: 'Interesting feature'
-moduleImage_image: main-home-extra.jpg
+moduleImage_image: /images/main-home-extra.jpg
 moduleImageAlt: 'Image of vet with cat'
 template: modular/textimage
 moduleText: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consequat consectetur tellus. Curabitur eget felis non purus viverra fermentum condimentum commodo elit. Morbi convallis tempor mi vel convallis. Maecenas purus sem, viverra et blandit eget, condimentum id enim. Cras eu efficitur enim. Duis condimentum ligula non neque consequat, sit amet porta felis imperdiet. Curabitur laoreet dui in fringilla varius. Nullam ipsum tellus, ultrices at odio porta, interdum imperdiet velit.
