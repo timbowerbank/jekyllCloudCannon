@@ -1,10 +1,11 @@
 ---
 layout: main
 title: Noahs Ark
-titleTag: About us - find out more...
+titleTag: Noahs Ark
 metaDescription: Read all about our practice and how we have helped many pets over the years.
-articleH1: About the Practice
-articleDesc: Read all about our practice
+articleH1: Article about Noah's Ark
+articleDesc: Read all about his ark
 menu: true
-menuName: About
+menuName: Noah
 ---
+
