@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: modular
 titleTag: Jekyll Demo Site
+menu: false
+menuName: Home
 
 slide1Header: 'A nice heading'
 slide1Para: 'Find out more about us...'

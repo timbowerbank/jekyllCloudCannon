@@ -5,6 +5,8 @@ titleTag: How to book an appointment
 metaDescription: add meta description text here
 articleH1: 'Book an appointment'
 articleDesc: 'How to book an appointment at our practice'
+menu: false
+menuName: Book an appointment
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra pulvinar ligula, nec hendrerit ex feugiat ac. Nunc nec nulla id elit elementum tincidunt. Donec blandit quis tortor ac commodo. Integer pretium venenatis viverra. Nam pretium condimentum dui id ultricies. Suspendisse eu volutpat nisl. Vestibulum condimentum nulla elementum nulla pulvinar, sed consectetur nisi bibendum. Maecenas ullamcorper nunc arcu, sed euismod justo lobortis sit amet. Nullam non tellus interdum ex dictum commodo. Aenean viverra pretium odio id ultricies. Vivamus at nisl eu nibh convallis dictum vitae ac nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.

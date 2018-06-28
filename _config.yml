@@ -34,6 +34,10 @@ websiteDesignTag: Created by Fort Marketing
 # COLLECTIONS
 collections_dir: collections
 collections:
+  top-level:
+    output: true
+    permalink: /:name.html
+
   news:
     output: true
     permalink: /news/:name.html

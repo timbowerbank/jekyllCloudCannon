@@ -5,5 +5,6 @@ titleTag: The latest news
 metaDescription: 'Read all about the latest news at the practice'
 articleH1: 'Latest News'
 articleDesc: 'Read all about the latest news at our practice'
-menu: About
+menu: true
+menuName: News
 ---

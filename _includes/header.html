@@ -13,15 +13,23 @@
 
       <!-- nav -->
       <div data-collapse="medium" data-animation="default" data-duration="400" class="mainnav w-nav">
-        <nav class="navcontainer w-container"><a href="{{ site.url }}" class="w-nav-brand"><img src="{{ site.url }}/images/vet-logo-01.svg" class="image"></a>
+        <nav class="navcontainer w-container"><a href="/" class="w-nav-brand"><img src="{{ site.url }}/images/vet-logo-01.svg" class="image"></a>
           <nav role="navigation" class="nav-menu w-nav-menu">
 
            <!--<a href="{{ page.url }}" class="navlinks w-nav-link">{{ page.menu }}</a>-->
-           <a href="{{ site.url }}" class="navlinks w-nav-link">Home</a>
+           <!--<a href="{{ site.url }}" class="navlinks w-nav-link">Home</a>
            <a href="{{ site.url }}/about.html" class="navlinks w-nav-link">About</a>
            <a href="{{ site.url }}/services.html" class="navlinks w-nav-link">Services</a>
            <a href="{{ site.url }}/news.html" class="navlinks w-nav-link">News</a>
-           <a href="{{ site.url }}/contact-us.html" class="navlinks w-nav-link">Contact Us</a>
+           <a href="{{ site.url }}/contact-us.html" class="navlinks w-nav-link">Contact Us</a>-->
+
+          {% for navitem in site.top-level %}
+            {% if navitem.menu == true %}
+
+              <a href="{{ navitem.url }}" class="navlinks w-nav-link">{{ navitem.menuName }}</a>
+
+            {% endif %}
+          {% endfor %}
 
           </nav>
           <div class="hamburgercontainer">
