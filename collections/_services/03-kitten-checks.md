@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Kitten checks at Vet Name
+titleTag: Get your kitten checked
 metaDescription: add meta description text here
 menu: Kitten checks
 featuredArticle: false

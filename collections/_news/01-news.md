@@ -1,6 +1,7 @@
 ---
 layout: main
 title: 'Kitten jabs'
+titleTag: Latest news on kitten jabs
 metaDescription: 'Find out about our new kitten jabs'
 articleH1: 'New kitten jabs'
 articleDesc: 'Protecting your kitten from many diseases'

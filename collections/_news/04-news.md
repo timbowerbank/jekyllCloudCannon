@@ -1,6 +1,7 @@
 ---
 layout: main
 title: 'News article 4'
+titleTag: News article 4
 metaDescription: 'add meta description text here'
 articleH1: 'News article 4'
 articleDesc: 'Read all about this article'

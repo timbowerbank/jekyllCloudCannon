@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Featured article
+titleTag: Featured article on dogs
 metaDescription: add meta description text here
 menu: Featured article
 articleH1: 'Featured article'

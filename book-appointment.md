@@ -1,6 +1,7 @@
 ---
 layout: main
 title: How to book an appointment at the vets
+titleTag: How to book an appointment
 metaDescription: add meta description text here
 articleH1: 'Book an appointment'
 articleDesc: 'How to book an appointment at our practice'

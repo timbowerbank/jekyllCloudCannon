@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Services
+titleTag: Services - find out what we can offer your pet
 metaDescription: add meta description text here
 articleH1: 'Our services'
 articleDesc: Read all about the services we offer

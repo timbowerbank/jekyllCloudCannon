@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Puppy vaccinations
+titleTag: Puppy vaccinations
 metaDescription: add meta description text here
 featuredArticle: false
 menu: Puppy vaccinations

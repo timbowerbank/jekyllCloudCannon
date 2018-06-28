@@ -1,6 +1,7 @@
 ---
 layout: main
 title: 'Contact Us'
+titleTag: Contact us
 metaDescription: 'add meta description text here'
 menu: Contact
 articleH1: 'Contact Us'

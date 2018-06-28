@@ -1,6 +1,7 @@
 ---
 layout: main
 title: News article 6
+titleTag: News article 6
 metaDescription: Find out all about our latest news at the practice.
 articleH1: Meet Jennie
 articleDesc: New vet recruited at our practice.

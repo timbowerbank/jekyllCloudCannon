@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Dental care at Vet Name
+titleTag: Dental care at our practice
 metaDescription: add meta description text here
 featuredArticle: false
 menu: Dental care options
