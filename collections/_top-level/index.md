@@ -22,7 +22,7 @@ mainText: >-
   maximus aliquam pharetra. Duis mattis ex ex, eu ornare lacus dapibus sed.
   Integer egestas nibh ac felis elementum, et facilisis diam mattis.
 moduleHeader: Interesting feature
-moduleImage_image: /images/main-home-extra.jpg
+moduleImage_image: /images/main-home-extra-2.jpg
 moduleImageAlt: Image of vet with cat
 template: modular/textimage
 moduleText: >-
@@ -48,7 +48,7 @@ servicesPara: >-
   dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh
   et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
   posuere.
-service1Image_image: /images/main-team-2.jpg
+service1Image_image: /images/main-team-6.jpg
 service1Alt: vet with cats
 service1Header: Dental Care
 service1Desc: >-
