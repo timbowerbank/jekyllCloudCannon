@@ -5,7 +5,7 @@ titleTag: Pet chipping at our practice
 metaDescription: Add some meta description text about the service
 articleH1: Pet chipping at our practice
 articleDesc: Never lose your pet again...
-articleThumb: main-news-dachsund.jpg
+articleThumb_image: main-news-dachsund.jpg
 articleThumbAlt: Image of dog being chipped
 summary: >-
   Vivamus viverra diam aliquet tortor posuere porta. Quisque iaculis ligula et

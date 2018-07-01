@@ -5,7 +5,7 @@ titleTag: News article 2
 metaDescription: 'add meta description text here'
 articleH1: 'News article 2'
 articleDesc: 'Read all about this article'
-articleThumb: main-news-new-vet.jpg
+articleThumb_image: main-news-new-vet.jpg
 articleThumbAlt: 'new vet at the practice'
 summary: Vivamus viverra diam aliquet tortor posuere porta. Quisque iaculis ligula et elit lobortis tincidunt. Suspendisse dignissim diam at felis condimentum, auctor hendrerit nisi dictum. Nam consequat, quam at bibendum porta, nisl ante tempus purus, eu ornare nisi orci a nisi. Pellentesque vitae luctus qu...
 ---

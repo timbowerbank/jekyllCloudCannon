@@ -17,7 +17,7 @@ layout: default
           {% for item in site.news reversed %}
              <div class="colnewsitem w-col w-col-3">
                <div class="newsitemdivwrapper">
-                 <a href="{{ item.url }}"><img src="{{ site.url }}/images/{{ item.articleThumb }}" alt="{{ item.articleThumbAlt }}"></a>
+                 <a href="{{ item.url }}"><img src="{{ site.url }}/images/{{ item.articleThumb_image }}" alt="{{ item.articleThumbAlt }}"></a>
                  <h2 class="h2news">{{ item.articleH1 }}</h2>
                  <div class="newssummary">{{ item.summary }}</div>
                  <div class="newsbuttonwrapper"><a href="{{ item.url }}" class="newsbutton w-button">Read the article</a></div>
