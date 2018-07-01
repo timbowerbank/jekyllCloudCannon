@@ -5,7 +5,7 @@ titleTag: News article 3
 metaDescription: 'add meta description text here'
 articleH1: 'News article 3'
 articleDesc: 'Read all about this article'
-articleThumb_image: main-news-retriever.jpg
+articleThumb_image: /images/main-news-retriever.jpg
 articleThumbAlt: 'Image of retriever'
 summary: Vivamus viverra diam aliquet tortor posuere porta. Quisque iaculis ligula et elit lobortis tincidunt. Suspendisse dignissim diam at felis condimentum, auctor hendrerit nisi dictum. Nam consequat, quam at bibendum porta, nisl ante tempus purus, eu ornare nisi orci a nisi. Pellentesque vitae luctus qu...
 ---
