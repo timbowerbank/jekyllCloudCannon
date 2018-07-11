@@ -5,7 +5,7 @@ menu: false
 menuName: Home
 slide1Header: A nice heading
 slide1Para: Find out more about us...
-button1Link_url: /01-about.html
+button1Link_link: /01-about.html
 slide2Header: Really nice words
 slide2Para: An explanation that links to services below.
 button2Link_url: /02-services.html
@@ -88,4 +88,3 @@ testimonial3Header: Add another testimonial
 testimonial3Para: Add some testimonial text
 testimonial3Name: Add another owner
 ---
-
