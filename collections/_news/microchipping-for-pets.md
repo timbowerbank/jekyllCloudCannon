@@ -1,12 +1,12 @@
 ---
 layout: main
 title: Microchipping for pets
-titleTag: Add your title tag here
-metaDescription: Add your meta description here
-articleH1: H1 header here please
-articleDesc: Add a nice sub headline
+titleTag: Microchipping for pets at our practice.
+metaDescription: Add all about microchipping at this practice.
+articleH1: Microchipping for your pet
+articleDesc: Peace of mind for you
 articleThumb_image: /images/main-news-dachsund.jpg
-articleThumbAlt: Add an alt text for the image
+articleThumbAlt: Image of dachsund about to be microchipped.
 summary: >-
   Add summary text here. Vivamus viverra diam aliquet tortor posuere porta.
   Quisque iaculis ligula et elit lobortis tincidunt. Suspendisse dignissim diam
