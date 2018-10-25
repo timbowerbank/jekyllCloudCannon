@@ -3,7 +3,7 @@ layout: modular
 titleTag: Jekyll Demo Site
 menu: false
 menuName: Home
-slide1Header: A nice heading
+slide1Header: A great heading
 slide1Para: Find out more about us...
 button1Link_link: /01-about.html
 slide2Header: Really nice words
@@ -88,3 +88,4 @@ testimonial3Header: Add another testimonial
 testimonial3Para: Add some testimonial text
 testimonial3Name: Add another owner
 ---
+
