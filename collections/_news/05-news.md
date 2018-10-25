@@ -4,7 +4,7 @@ title: Article about dogs
 titleTag: News article 5
 metaDescription: add meta description text here
 articleH1: Article about dogs
-articleDesc: Read all about this article
+articleDesc: Read all about this article on dogs but not cats
 articleThumb_image: /images/main-news-puppy.jpg
 articleThumbAlt: Image of puppy
 summary: >-
