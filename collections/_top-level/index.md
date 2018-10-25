@@ -14,13 +14,14 @@ slide3Para: The slide paragraph that links to contact
 button3Link_url: /04-contact-us.html
 mainHeader: Welcome to our practice
 mainText_markdown: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisi vitae
-  nunc imperdiet imperdiet in quis mauris. Ut a massa a quam gravida dapibus
-  quis id velit. Maecenas neque nisi, lacinia sit amet elementum non, placerat
-  non orci. Quisque viverra pellentesque ex, in dapibus lorem dictum tincidunt.
-  Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur
-  maximus aliquam pharetra. Duis mattis ex ex, eu ornare lacus dapibus sed.
-  Integer egestas nibh ac felis elementum, et facilisis diam mattis.
+  You could add some more great text in here. Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit. Nullam nec nisi vitae nunc imperdiet imperdiet in
+  quis mauris. Ut a massa a quam gravida dapibus quis id velit. Maecenas neque
+  nisi, lacinia sit amet elementum non, placerat non orci. Quisque viverra
+  pellentesque ex, in dapibus lorem dictum tincidunt. Interdum et malesuada
+  fames ac ante ipsum primis in faucibus. Curabitur maximus aliquam pharetra.
+  Duis mattis ex ex, eu ornare lacus dapibus sed. Integer egestas nibh ac felis
+  elementum, et facilisis diam mattis.
 moduleHeader: Interesting feature
 moduleImage_image: /images/main-home-extra-2.jpg
 moduleImageAlt: Image of vet with cat
@@ -48,7 +49,7 @@ servicesPara: >-
   dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh
   et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
   posuere.
-service1Image_image: /images/main-team-6.jpg
+service1Image_image: /images/main-home-extra-3.jpg
 service1Alt: vet with cats
 service1Header: Dental Care
 service1Desc: >-
@@ -88,3 +89,4 @@ testimonial3Header: Add another testimonial
 testimonial3Para: Add some testimonial text
 testimonial3Name: Add another owner
 ---
+
