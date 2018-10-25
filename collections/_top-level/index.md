@@ -49,7 +49,7 @@ servicesPara: >-
   dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh
   et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
   posuere.
-service1Image_image: /images/main-home-extra-3.jpg
+service1Image_image: /images/main-team-6.jpg
 service1Alt: vet with cats
 service1Header: Dental Care
 service1Desc: >-
