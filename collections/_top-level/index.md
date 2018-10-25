@@ -13,7 +13,7 @@ slide3Header: The final word...
 slide3Para: The slide paragraph that links to contact
 button3Link_url: /04-contact-us.html
 mainHeader: Welcome to our practice
-mainText: >-
+mainText_markdown: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisi vitae
   nunc imperdiet imperdiet in quis mauris. Ut a massa a quam gravida dapibus
   quis id velit. Maecenas neque nisi, lacinia sit amet elementum non, placerat
@@ -88,4 +88,3 @@ testimonial3Header: Add another testimonial
 testimonial3Para: Add some testimonial text
 testimonial3Name: Add another owner
 ---
-
