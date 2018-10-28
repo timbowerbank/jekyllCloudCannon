@@ -9,7 +9,7 @@ button1Link_link: /01-about.html
 slide2Header: Really nice words
 slide2Para: An explanation that links to services below.
 button2Link_url: /02-services.html
-slide3Header: The final word...
+slide3Header: The last word...
 slide3Para: The slide paragraph that links to contact
 button3Link_url: /04-contact-us.html
 mainHeader: Welcome to our practice
