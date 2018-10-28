@@ -14,13 +14,14 @@ slide3Para: The slide paragraph that links to contact
 button3Link_url: /04-contact-us.html
 mainHeader: Welcome to our practice
 mainText_markdown: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec nisi vitae
-  nunc imperdiet imperdiet in quis mauris. Ut a massa a quam gravida dapibus
-  quis id velit. Maecenas neque nisi, lacinia sit amet elementum non, placerat
-  non orci. Quisque viverra pellentesque ex, in dapibus lorem dictum tincidunt.
-  Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur
-  maximus aliquam pharetra. Duis mattis ex ex, eu ornare lacus dapibus sed.
-  Integer egestas nibh ac felis elementum, et facilisis diam mattis.
+  This is where we can amend complex content. Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit. Nullam nec nisi vitae nunc imperdiet imperdiet in
+  quis mauris. Ut a massa a quam gravida dapibus quis id velit. Maecenas neque
+  nisi, lacinia sit amet elementum non, placerat non orci. Quisque viverra
+  pellentesque ex, in dapibus lorem dictum tincidunt. Interdum et malesuada
+  fames ac ante ipsum primis in faucibus. Curabitur maximus aliquam pharetra.
+  Duis mattis ex ex, eu ornare lacus dapibus sed. Integer egestas nibh ac felis
+  elementum, et facilisis diam mattis.
 moduleHeader: Interesting feature
 moduleImage_image: /images/main-home-extra-2.jpg
 moduleImageAlt: Image of vet with cat
