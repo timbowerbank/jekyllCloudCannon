@@ -1,7 +1,7 @@
 ---
 layout: modular
 titleTag: Jekyll Demo Site
-menu: true
+menu: false
 menuName: Home
 slide1Header: A great heading
 slide1Para: Find out more about us...
