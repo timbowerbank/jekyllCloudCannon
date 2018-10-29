@@ -5,7 +5,7 @@ titleTag: Featured article on dogs
 metaDescription: add meta description text here
 menu: Featured article
 articleH1: Featured article
-featuredArticle: false
+featuredArticle: true
 articleDesc: Read all about this feature
 articleThumb: side-banner-labrador.jpg
 articleThumbAlt: Image of labrador
