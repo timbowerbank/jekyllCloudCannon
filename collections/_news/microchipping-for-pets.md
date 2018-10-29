@@ -3,7 +3,7 @@ layout: main
 title: Microchipping for pets
 titleTag: Microchipping for pets at our practice.
 metaDescription: Add all about microchipping at this practice.
-articleH1: Microchipping
+articleH1: Microchipping for pets
 articleDesc: Peace of mind for you
 articleThumb_image: /images/main-news-dachsund.jpg
 articleThumbAlt: Image of dachsund about to be microchipped.
