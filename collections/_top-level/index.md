@@ -88,5 +88,5 @@ testimonial2Name: Add another owner
 testimonial3Header: Add another testimonial
 testimonial3Para: Add some testimonial text
 testimonial3Name: Add another owner
+_hide_content: true
 ---
-
